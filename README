@@ -1,0 +1,8 @@
+
+        DFA
+~~~~~~~~~~~~~~~~~~~~~~
+
+If the sequence is `100101001101010100111`, then it will be accepted by the 
+DFA, if change the last character to `0`, then it will not be accepted by the
+DFA.
+
